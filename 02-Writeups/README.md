@@ -6,17 +6,43 @@
 * [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
 * [Android Penetration Testing](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
 * [Android application penetration testing guide](https://github.com/nightowl131/AAPG)
-* Flutter SSL pin bypass : [[ 1 ]](https://blog.nviso.eu/2020/05/20/intercepting-flutter-traffic-on-android-x64/) - [[ 2 ]](https://blog.nviso.eu/2019/08/13/intercepting-traffic-from-android-flutter-applications/)
+* Flutter reverse : [[ 1 ]](https://blog.nviso.eu/2020/05/20/intercepting-flutter-traffic-on-android-x64/) - [[ 2 ]](https://blog.nviso.eu/2019/08/13/intercepting-traffic-from-android-flutter-applications/) - [[ 3 ]](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
+* [Using Frida on Android without root](https://koz.io/using-frida-on-android-without-root/)
+* [Frida Handbook](https://learnfrida.info/)
+* [MITRE Mobile Techniques](https://attack.mitre.org/versions/v7/techniques/mobile/)
+* [Android Security Risks](https://developer.android.com/topic/security/risks)
+* [Debug Native library in android](https://ctf-wiki.mahaloz.re/android/basic_reverse/dynamic/ida_native_debug/)
 
 ## Blog
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
+* [theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
 * Hacking Samsung's Android Apps : [[ 1 ]](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/) - [[ 2 ]](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
 * Hacking Xiaomi's Adnroid Apps: [[ 1 ]](https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html?spref=tw)
 * [Client Side Encryption Bypass Leads to Account Takeover](https://sanjay-gondaliya.medium.com/android-applications-client-side-encryption-bypass-leads-to-account-takeover-e8604ded9c52)
+* [PGSharp: Analysis of a Cheating App for PokemonGO](https://www.romainthomas.fr/post/21-11-pgsharp-analysis/)
+* [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
+* [How to Detect Frida](https://github.com/apkunpacker/Anti-Frida)
+* [apps with millions of downloads exposed to high-severity vulnerabilities](https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/)
+* [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
+
 
 ## Malware analysis
+* [MoqHao Malware Analysis](https://www.xanhacks.xyz/p/moqhao-malware-analysis/)
+* [SharkBot Malware Analysis](https://muha2xmad.github.io/malware-analysis/sharkbot/)
+* [SOVA Malware Analysis](https://muha2xmad.github.io/malware-analysis/sova/)
 * [a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 * [Reversing ActionSpy Android Malware](https://0x00sec.org/t/reversing-actionspy-android-malware/26537)
+* [Trojans and their little tricks](https://securelist.com/mobile-subscription-trojans-and-their-tricks/106412/)
+* [App Serves Teabot Via GitHub](https://labs.k7computing.com/index.php/play-store-app-serves-teabot-via-github/)
+* [Google Service Framework Malware](https://blog.cyble.com/2022/05/26/new-malware-campaign-delivers-android-rat/)
+* [Hydra Malware](https://muha2xmad.github.io/malware-analysis/hydra/)
+* [Ginp Malware](https://muha2xmad.github.io/malware-analysis/ginp/)
+* [PEGASUS Malware](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
+
+## CVE
+* [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
+* [Samsung Galaxy - Any App Can Install Any App In The Galaxy App Store](https://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/)
+
 ## CTF
 * [hacker101-CTF](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
 * [2021-GoogleCTF-TRIDROID](https://fineas.github.io/FeDEX/post/tridroid.html)
