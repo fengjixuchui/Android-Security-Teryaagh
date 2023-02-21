@@ -27,9 +27,12 @@
 * [apps with millions of downloads exposed to high-severity vulnerabilities](https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/)
 * [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
 * [Unpacking a JsonPacker-packed sample](https://cryptax.medium.com/unpacking-a-jsonpacker-packed-sample-4038e12119f5)
+* [Exploiting Android WebView Vulnerabilities](https://medium.com/mobis3c/exploiting-android-webview-vulnerabilities-e2bcff780892#6537)
+
 
 
 ## Malware analysis
+* [Anubis analysis video](https://www.youtube.com/watch?v=Vs9Z3NDnVT8&ab_channel=LaurieWired)
 * [MoqHao Malware Analysis](https://www.xanhacks.xyz/p/moqhao-malware-analysis/)
 * [SharkBot Malware Analysis](https://muha2xmad.github.io/malware-analysis/sharkbot/)
 * [SOVA Malware Analysis](https://muha2xmad.github.io/malware-analysis/sova/)
